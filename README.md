@@ -1,16 +1,35 @@
-### Hi there 👋
-
-<!--
-**four2011/four2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!DOCTYPE html>
+    <head>
+        <title>
+        <h1>
+            CRMP проект Madness RolePlay
+        </h1>
+    </title>
+    </head>
+    <h> 
+    <body>
+        <style>
+            body{
+                background: url(https://i.ytimg.com/vi/PlUoS3ud6Lg/maxresdefault.jpg) no-repeat center center fixed;
+                background-size: cover;
+            }
+        </style>
+                <center>
+                    <h1>Игровой проект Madness RP</h1> 
+                </center>
+        <p>
+        <h2>
+            Сервер и сайт на данный момент в разработке...
+        </h2>
+        </p>
+    <p>
+        <div>
+            <h2><b>Есть только связь с разработчиком и группа по серверу (Все в телегерамм)</b></h2>
+        <h2><a href="https://t.me/+OrB1VQGAENs2MzAy" class="bd-links-link d-inline-block rounded">Группа сервера</a></h2>
+        <h2><a href="https://t.me/fourLKA" class="bd-links-link d-inline-block rounded">Разработчик</a></h2>
+    </div>
+    </li>
+    
+    </p>
+    </body>
+</html>
